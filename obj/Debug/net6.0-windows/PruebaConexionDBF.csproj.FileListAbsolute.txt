@@ -1,0 +1,60 @@
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.Form.resources
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.AssemblyInfo.cs
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.exe
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.deps.json
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.runtimeconfig.json
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.dll
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.pdb
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\victo\source\repos\PruebaConexionDBF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.CopyComplete
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.dll
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\refint\PruebaConexionDBF.dll
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.pdb
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.genruntimeconfig.cache
+C:\Users\victo\source\repos\PruebaConexionDBF\obj\Debug\net6.0-windows\ref\PruebaConexionDBF.dll
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.exe
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.deps.json
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.runtimeconfig.json
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.dll
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.pdb
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.AssemblyReference.cache
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.Form.resources
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.GenerateResource.cache
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.AssemblyInfoInputs.cache
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.AssemblyInfo.cs
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.CoreCompileInputs.cache
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.CopyComplete
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.dll
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\refint\PruebaConexionDBF.dll
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.pdb
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.genruntimeconfig.cache
+E:\Proyectos\respaldo proyectos VS\PruebaConexionDBF\obj\Debug\net6.0-windows\ref\PruebaConexionDBF.dll
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.exe
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.deps.json
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.runtimeconfig.json
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.dll
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\PruebaConexionDBF.pdb
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.Form.resources
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.csproj.CopyComplete
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.dll
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\refint\PruebaConexionDBF.dll
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.pdb
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\PruebaConexionDBF.genruntimeconfig.cache
+C:\Users\hp\Documents\Visual Studio 2022\Proyectos\PruebaConexionDBF\obj\Debug\net6.0-windows\ref\PruebaConexionDBF.dll
